@@ -5,6 +5,7 @@ class Counter extends Component {
     count: 0,
   };
 
+
   render() {
     return (
       <>
